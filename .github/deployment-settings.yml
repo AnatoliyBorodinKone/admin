@@ -11,8 +11,7 @@ restrictedRepos:
     - safe-settings
     - admin-*
   include:
-    - docs
-    - core-*
+    - test-repo-*
 
 configvalidators:
   - plugin: collaborators
